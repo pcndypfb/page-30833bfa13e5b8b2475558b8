@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "56d65d6ac2a815fe9f9f8060",
+  "owner": "pcndypfb",
+  "repo": "page-30833bfa13e5b8b2475558b8",
+  "title": "越境機場(Cross)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "30833bfa13e5b8b2475558b8",
+      "a": "越境機場(Cross)",
+      "b": "稳定全球clash加速器",
+      "entity": "越境機場(Cross)",
+      "brand": "越境機場(Cross)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6d4f3ec555f95748add1d0671c7c75118fb54353c746925c189ac92153dd3eaf",
+      "content": {
+        "primary_entity": "越境機場(Cross)",
+        "keyword1": "越境機場(Cross)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_HERO_SUBTITLE": "越境機場(Cross)多设备订阅选择",
+          "AI_HERO_INTRO": "越境機場(Cross)提供基础版、旗舰版与团队版三档订阅，覆盖每月100GB至1000GB流量，支持3台到20台设备同时在线，并按设备与使用周期灵活选择。",
+          "AI_VISUAL_TITLE": "越境機場(Cross)订阅入口",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同流量与设备数",
+          "AI_HIGHLIGHT_2": "旗舰版支持5台设备与IPLC专线",
+          "AI_HIGHLIGHT_3": "团队版提供1000GB与20台设备",
+          "AI_DESCRIPTION": "，以基础版、旗舰版和团队版三档订阅覆盖不同设备数量与月流量需求。基础版每月100GB流量，支持3台设备同时在线，按年付仅需¥150；旗舰版每月300GB流量，支持5台设备同时在线，按年付仅需¥350，并包含IPLC专线游戏加速优化；团队版每月1000GB流量，支持20台设备同时在线，按年付仅需¥850。用户可根据设备数量、月流量和预算在客户端订阅配置中直接选择。",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和订阅周期三个角度快速对比三档套餐。",
+          "AI_FEATURE_TITLE_1": "设备数量先确认",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，按常用设备数选择。",
+          "AI_FEATURE_TITLE_2": "月流量按需匹配",
+          "AI_FEATURE_TEXT_2": "每月100GB适合轻量使用，300GB适合多设备，1000GB适合高流量场景。",
+          "AI_FEATURE_TITLE_3": "订阅周期更灵活",
+          "AI_FEATURE_TEXT_3": "月付与年付均可选，年付价格更优惠，按使用时长决定付费方式。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月；按年付分别仅需¥150、¥350、¥850。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择 Clash 客户端，并按照订阅配置步骤导入节点信息。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备适配、在客户端完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量从三档套餐中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与同时在线设备数在套餐范围内。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应 Clash 客户端中按文档导入订阅地址并完成设置。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_CLOSING_TEXT": "按设备数与流量选定套餐，立即完成订阅配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "越境機場(Cross)三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版100GB流量、3台设备；旗舰版300GB流量、5台设备并含IPLC专线与流媒体解锁；团队版1000GB流量、20台设备并支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "年付比月付能节省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付150元，约为月付总价的8.3折；旗舰版年付350元，团队版年付850元，均比按月购买更划算。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅配置到客户端？",
+          "AI_FAQ_ANSWER_3": "在客户端中添加订阅链接或导入配置文件，具体入口依客户端版本与平台有所差异，请参照对应客户端的文档说明操作。",
+          "AI_FAQ_QUESTION_4": "同时在线设备数量超出套餐限制会怎样？",
+          "AI_FAQ_ANSWER_4": "超限时新设备可能无法连接，建议按实际使用终端数量选择套餐，或升级到支持更多并发设备的档位。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景使用？",
+          "AI_FAQ_ANSWER_5": "团队版提供1000GB月流量与20台设备并发，支持企业定制路由和专属客户经理，适合小型团队或有多终端协作需求的用户。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fclszez.cn",
+    "host": "fclszez.cn"
+  },
+  "file_hashes": {
+    "index.html": "10c08f8a3bd11261b2f9b0530d3b79a25fd6866fbe4d8d2284fcf9d8018ee199",
+    "sitemap.xml": "b32ddf546b6425285f181864cea5839afdb4bb676c34fb4b88fc90900029f71d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1e7d9c9adb39ada6fb4ba703a765f5a37b2c80488277cc3c85018ca3e47ca8c0",
+    "robots.txt": "7e8a6643343b5a77bd5b38bcaad37424142b0df4f661f7d541201098b041341b",
+    "0d03e461a1565311b865b355b842356e.txt": "53e14bc8c73f0824d3957f3b8b5df0877db1a0ea11ae75852b7a44f998c2273f"
+  },
+  "revision": "a1433815718a06e687de19d2735cdd3ad8ab6a8ba23c89fc3b6ef766ecc763da"
+}
